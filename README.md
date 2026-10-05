@@ -1,6 +1,6 @@
 # Polyglot Algorithmic Practice & Problem Solving
 
-[![Codewars Profile](https://www.codewars.com/users/YOUR_CODEWARS_USERNAME/badges/large)](https://www.codewars.com/users/YOUR_CODEWARS_USERNAME)
+[![Codewars Profile](https://www.codewars.com/users/Sirius_b_13/badges/large)](https://www.codewars.com/users/Sirius_b_13)
 
 Automated repository archiving solutions and algorithmic exercises completed across all tracks on [Codewars](https://www.codewars.com). Categorized by programming language and difficulty rank (kyu) to track problem-solving consistency, data structures, and implementation across paradigms.
 
