@@ -1,35 +1,33 @@
-# Algorithmic Problem Solving & SQL Challenges
+# Polyglot Algorithmic Practice & Problem Solving
 
-[![Codewars Profile](https://www.codewars.com/users/Sirius_b_13/badges/large)](https://www.codewars.com/users/Sirius_b_13)
+[![Codewars Profile](https://www.codewars.com/users/YOUR_CODEWARS_USERNAME/badges/large)](https://www.codewars.com/users/YOUR_CODEWARS_USERNAME)
 
-Automated repository tracking completed katas, algorithmic challenges, and SQL queries from [Codewars](https://www.codewars.com). Categorized by language and rank (kyu) to track problem-solving consistency, data structures, and query optimization.
+Automated repository archiving solutions and algorithmic exercises completed across all tracks on [Codewars](https://www.codewars.com). Categorized by programming language and difficulty rank (kyu) to track problem-solving consistency, data structures, and implementation across paradigms.
 
 ---
 
-### Progress & Language Breakdown
+### Kata Completion by Language
 
 <!-- STATS_START -->
 | Language | Completed Katas |
 | :--- | :---: |
-| **Python** | 0 |
-| **Sql** | 0 |
-| **Total** | **0** |
+| **Total Unique Katas** | **0** |
 <!-- STATS_END -->
 
 ---
 
-### Repository Architecture
+### Directory Layout
 
 ```text
-├── python/
-│   ├── 5_kyu/
-│   │   └── moving_zeros_to_the_end/
-│   │       └── solution.py
+├── csharp/
 │   └── 6_kyu/
+├── javascript/
+│   └── 5_kyu/
+├── python/
+│   ├── 4_kyu/
+│   └── 5_kyu/
 ├── sql/
 │   ├── 5_kyu/
-│   │   └── calculating_running_total/
-│   │       └── solution.sql
 │   └── 6_kyu/
 └── .github/
     ├── scripts/
