@@ -11,7 +11,9 @@ Automated repository archiving solutions and algorithmic exercises completed acr
 <!-- STATS_START -->
 | Language | Completed Katas |
 | :--- | :---: |
-| **Total Unique Katas** | **0** |
+| **C#** | 41 |
+| **Python** | 14 |
+| **Total Unique Katas** | **55** |
 <!-- STATS_END -->
 
 ---
