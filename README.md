@@ -1,5 +1,5 @@
 # Hi, I'm Nahid 👋
-**Data Science, Analytics & Security Applied Bachelor Graduate**  
+**Data Science, Analytics & Security Applied Bachelor**  
 Brussels, Belgium | [LinkedIn](https://www.linkedin.com/in/nahidkassam/) | [Email](mailto:nahidk.work@gmail.com)
 
 I build machine learning pipelines, optimize relational data workflows, and focus on secure data architectures.
