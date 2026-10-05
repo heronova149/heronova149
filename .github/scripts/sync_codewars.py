@@ -2,7 +2,7 @@ import os
 import re
 import requests
 
-USERNAME = "YOUR_CODEWARS_USERNAME"  # Replace with your Codewars username
+USERNAME = "Sirius_b_13"  # Replace with your Codewars username
 
 # Map Codewars language slugs to standard file extensions
 EXTENSIONS = {
