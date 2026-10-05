@@ -1,38 +1,27 @@
-# Polyglot Algorithmic Practice & Problem Solving
+# Hi, I'm Nahid 👋
+**Data Science, Analytics & Security Applied Bachelor Graduate**  
+Brussels, Belgium | [LinkedIn](https://www.linkedin.com/in/nahidkassam/) | [Email](mailto:nahidk.work@gmail.com)
 
-[![Codewars Profile](https://www.codewars.com/users/Sirius_b_13/badges/large)](https://www.codewars.com/users/Sirius_b_13)
-
-Automated repository archiving solutions and algorithmic exercises completed across all tracks on [Codewars](https://www.codewars.com). Categorized by programming language and difficulty rank (kyu) to track problem-solving consistency, data structures, and implementation across paradigms.
+I build machine learning pipelines, optimize relational data workflows, and focus on secure data architectures.
 
 ---
 
-### Kata Completion by Language
+### Core Technical Toolkit
+* **Languages:** Python, SQL, C#, JavaScript, Bash
+* **Data & ML:** scikit-learn, MLflow, pandas, ETL Pipelines, Power BI
+* **Security & Infrastructure:** GDPR Auditing, REST APIs, Git, Docker, SQLite
+
+---
+
+### 🥋 Codewars Progress & Problem Solving
+
+[![Codewars Profile](https://www.codewars.com/users/Sirius_b_13/badges/large)](https://www.codewars.com/users/Sirius_b_13)
 
 <!-- STATS_START -->
 | Language | Completed Katas |
 | :--- | :---: |
-| **C#** | 41 |
-| **Python** | 14 |
-| **Total Unique Katas** | **55** |
+| **Total Unique Katas** | **0** |
 <!-- STATS_END -->
 
 ---
-
-### Directory Layout
-
-```text
-├── csharp/
-│   └── 6_kyu/
-├── javascript/
-│   └── 5_kyu/
-├── python/
-│   ├── 4_kyu/
-│   └── 5_kyu/
-├── sql/
-│   ├── 5_kyu/
-│   └── 6_kyu/
-└── .github/
-    ├── scripts/
-    │   └── sync_codewars.py
-    └── workflows/
-        └── codewars_sync.yml
+*Solutions and completed katas synchronized automatically via GitHub Actions.*
