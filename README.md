@@ -15,13 +15,11 @@ I build machine learning pipelines, optimize relational data workflows, and focu
 
 ### 💻 Problem Solving & Algorithmic Practice
 
-<div align="center">
-
+<p align="center">
   <a href="https://www.codewars.com/users/heronova149" target="_blank">
     <img src="https://www.codewars.com/users/heronova149/badges/large" alt="Codewars Profile" />
   </a>
-
-  <br/><br/>
+</p>
 
 <!-- STATS_START -->
 | Language | Completed Katas |
@@ -29,13 +27,8 @@ I build machine learning pipelines, optimize relational data workflows, and focu
 | **Total Unique Katas** | **0** |
 <!-- STATS_END -->
 
-  <br/>
-
-  <a href="https://leetcode.com/Sirius_b_13/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Sirius_b_13/?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats" width="85%" />
+<p align="center">
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=source_code_pro" alt="LeetCode Stats" />
   </a>
-
-</div>
-
----
-*Codewars solutions and katas synchronized automatically via GitHub Actions.*
+</p>
