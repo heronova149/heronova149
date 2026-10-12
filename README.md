@@ -30,6 +30,6 @@ I build machine learning pipelines, optimize relational data workflows, and focu
 
 ### 🧩 LeetCode Progress
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats" />
+<a href="https://leetcode.com/Sirius_b_13/">
+  <img src="https://leetcard.jacoblin.cool/Sirius_b_13?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats" />
 </a>
