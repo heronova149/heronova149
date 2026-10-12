@@ -28,7 +28,7 @@ I build machine learning pipelines, optimize relational data workflows, and focu
 <!-- STATS_END -->
 
 <p align="center">
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=source_code_pro" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/Sirius_b_13/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Sirius_b_13?theme=dark&font=source_code_pro" alt="LeetCode Stats" />
   </a>
 </p>
