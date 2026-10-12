@@ -27,3 +27,9 @@ I build machine learning pipelines, optimize relational data workflows, and focu
 
 ---
 *Solutions and completed katas synchronized automatically via GitHub Actions.*
+
+### 🧩 LeetCode Progress
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats" />
+</a>
