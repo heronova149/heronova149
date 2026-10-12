@@ -15,13 +15,10 @@ I build machine learning pipelines, optimize relational data workflows, and focu
 
 ### 💻 Problem Solving & Algorithmic Practice
 
-<p align="center">
-  <a href="https://www.codewars.com/users/Sirius_b_13" target="_blank">
-    <img src="https://www.codewars.com/users/Sirius_b_13/badges/large?v=1" alt="Codewars Profile Badge" />
-  </a>
-</p>
+<a href="https://www.codewars.com/users/Sirius_b_13" target="_blank">
+  <img src="https://www.codewars.com/users/Sirius_b_13/badges/large?v=1" alt="Codewars Profile Badge" />
+</a>
 
-<p align="center">
 <!-- STATS_START -->
 | Language | Completed Katas |
 | :--- | :---: |
@@ -29,10 +26,8 @@ I build machine learning pipelines, optimize relational data workflows, and focu
 | **Python** | 14 |
 | **Total Unique Katas** | **56** |
 <!-- STATS_END -->
-</p>
 
-<p align="center">
-  <a href="https://leetcode.com/Sirius_b_13/" target="_blank">
+
+<a href="https://leetcode.com/Sirius_b_13/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/Sirius_b_13?theme=dark&font=source_code_pro" alt="LeetCode Stats" />
-  </a>
-</p>
+</a>
