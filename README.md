@@ -17,7 +17,7 @@ I build machine learning pipelines, optimize relational data workflows, and focu
 
 <p align="center">
   <a href="https://www.codewars.com/users/Sirius_b_13" target="_blank">
-    <img src="https://codewars-stats.vercel.app/api/Sirius_b_13?theme=dark" alt="Codewars Stats Card" />
+    <img src="https://codewars-stats.vercel.app/api/Sirius_b_13?theme=dark&v=1" alt="Codewars Stats Card" />
   </a>
 </p>
 
