@@ -21,6 +21,7 @@ I build machine learning pipelines, optimize relational data workflows, and focu
   </a>
 </p>
 
+<p align="center">
 <!-- STATS_START -->
 | Language | Completed Katas |
 | :--- | :---: |
@@ -28,6 +29,7 @@ I build machine learning pipelines, optimize relational data workflows, and focu
 | **Python** | 14 |
 | **Total Unique Katas** | **56** |
 <!-- STATS_END -->
+</p>
 
 <p align="center">
   <a href="https://leetcode.com/Sirius_b_13/" target="_blank">
