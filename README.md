@@ -16,8 +16,8 @@ I build machine learning pipelines, optimize relational data workflows, and focu
 ### 💻 Problem Solving & Algorithmic Practice
 
 <p align="center">
-  <a href="https://www.codewars.com/users/heronova149" target="_blank">
-    <img src="https://codewars-stats.vercel.app/api/heronova149?theme=dark" alt="Codewars Stats Card" />
+  <a href="https://www.codewars.com/users/Sirius_b_13" target="_blank">
+    <img src="https://codewars-stats.vercel.app/api/Sirius_b_13?theme=dark" alt="Codewars Stats Card" />
   </a>
 </p>
 
