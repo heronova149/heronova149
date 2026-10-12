@@ -1,5 +1,5 @@
 # Hi, I'm Nahid 👋
-**Data Science, Analytics & Security Applied Bachelor**  
+**Data Science, Analytics & Security Applied Bachelor Graduate**  
 Brussels, Belgium | [LinkedIn](https://www.linkedin.com/in/nahidkassam/) | [Email](mailto:nahidk.work@gmail.com)
 
 I build machine learning pipelines, optimize relational data workflows, and focus on secure data architectures.
@@ -13,23 +13,29 @@ I build machine learning pipelines, optimize relational data workflows, and focu
 
 ---
 
-### 🥋 Codewars Progress & Problem Solving
+### 💻 Problem Solving & Algorithmic Practice
 
-[![Codewars Profile](https://www.codewars.com/users/Sirius_b_13/badges/large)](https://www.codewars.com/users/Sirius_b_13)
+<div align="center">
+
+  <a href="https://www.codewars.com/users/heronova149" target="_blank">
+    <img src="https://www.codewars.com/users/heronova149/badges/large" alt="Codewars Profile" />
+  </a>
+
+  <br/><br/>
 
 <!-- STATS_START -->
 | Language | Completed Katas |
 | :--- | :---: |
-| **C#** | 42 |
-| **Python** | 14 |
-| **Total Unique Katas** | **56** |
+| **Total Unique Katas** | **0** |
 <!-- STATS_END -->
 
+  <br/>
+
+  <a href="https://leetcode.com/Sirius_b_13/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Sirius_b_13/?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats" width="85%" />
+  </a>
+
+</div>
+
 ---
-*Solutions and completed katas synchronized automatically via GitHub Actions.*
-
-### 🧩 LeetCode Progress
-
-<a href="https://leetcode.com/Sirius_b_13/">
-  <img src="https://leetcard.jacoblin.cool/Sirius_b_13?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats" />
-</a>
+*Codewars solutions and katas synchronized automatically via GitHub Actions.*
