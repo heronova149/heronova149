@@ -31,3 +31,22 @@ I build machine learning pipelines, optimize relational data workflows, and focu
 <a href="https://leetcode.com/Sirius_b_13/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/Sirius_b_13?theme=dark&font=source_code_pro" alt="LeetCode Stats" />
 </a>
+
+### 🧪 Hands-On Labs & Practical Skills (LabEx)
+
+<p align="center">
+  <a href="https://labex.io/user/YOUR_LABEX_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LabEx-Profile-00C49F?style=for-the-badge&logo=codeforces&logoColor=white" alt="LabEx Profile" />
+  </a>
+  <a href="https://labex.io/user/YOUR_LABEX_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Status-Active_Learner-007ACC?style=for-the-badge&logo=powershell&logoColor=white" alt="Learning Status" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Cybersecurity-black?style=flat-square&logo=hackthebox&logoColor=white" alt="Cybersecurity" />
+</p>
