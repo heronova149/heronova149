@@ -34,7 +34,7 @@ I build machine learning pipelines, optimize relational data workflows, and focu
 
 ### 🧪 Hands-On Labs & Practical Skills (LabEx)
 
-<p align="center">
+<p align="left">
   <a href="https://labex.io/user/sirius-b-13-92333580" target="_blank">
     <img src="https://img.shields.io/badge/LabEx-Profile-00C49F?style=for-the-badge&logo=codeforces&logoColor=white" alt="LabEx Profile" />
   </a>
@@ -43,7 +43,7 @@ I build machine learning pipelines, optimize relational data workflows, and focu
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
