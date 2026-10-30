@@ -35,10 +35,10 @@ I build machine learning pipelines, optimize relational data workflows, and focu
 ### 🧪 Hands-On Labs & Practical Skills (LabEx)
 
 <p align="left">
-  <a href="https://labex.io/user/sirius-b-13-92333580" target="_blank">
+  <a href="https://labex.io/u/sirius-b-13-92333580" target="_blank">
     <img src="https://img.shields.io/badge/LabEx-Profile-00C49F?style=for-the-badge&logo=codeforces&logoColor=white" alt="LabEx Profile" />
   </a>
-  <a href="https://labex.io/user/sirius-b-13-92333580" target="_blank">
+  <a href="https://labex.io/u/sirius-b-13-92333580" target="_blank">
     <img src="https://img.shields.io/badge/Status-Active_Learner-007ACC?style=for-the-badge&logo=powershell&logoColor=white" alt="Learning Status" />
   </a>
 </p>
