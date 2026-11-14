@@ -23,8 +23,8 @@ I build machine learning pipelines, optimize relational data workflows, and focu
 | Language | Completed Katas |
 | :--- | :---: |
 | **C#** | 44 |
-| **Python** | 14 |
-| **Total Unique Katas** | **58** |
+| **Python** | 17 |
+| **Total Unique Katas** | **61** |
 <!-- STATS_END -->
 
 
